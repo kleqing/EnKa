@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Background
   - 
   - 
   - 
@@ -41,3 +41,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player
+    uniqueID: 521398023
+    locked: 0
+  - name: Cloud
+    uniqueID: 1886312743
+    locked: 0
+  - name: Stone
+    uniqueID: 3210140287
+    locked: 0
+  - name: Platform
+    uniqueID: 2614597181
+    locked: 0
+  m_RenderingLayers:
+  - Default
