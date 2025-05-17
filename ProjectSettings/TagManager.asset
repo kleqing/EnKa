@@ -4,12 +4,12 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Button
+  - Ground
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
@@ -45,11 +45,14 @@ TagManager:
   - name: Background
     uniqueID: 3473291045
     locked: 0
-  - name: Notes
+  - name: Platform
     uniqueID: 4264433521
     locked: 0
-  - name: Button
+  - name: Player
     uniqueID: 4275273229
+    locked: 0
+  - name: Object
+    uniqueID: 3259967249
     locked: 0
   m_RenderingLayers:
   - Default
