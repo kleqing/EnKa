@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: 6bd1c00f5f6ecc746b6e2277f8a7d292
+guid: 445f456e4b154514898d79d71b55c05f
 AssetOrigin:
   serializedVersion: 1
   productId: 85838
   packageName: Free Platform Game Assets
   packageVersion: 1.9.4
   assetPath: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation
-    ( Update 1.8 )/Idle/2x.png
+    ( Update 1.8 )/Idle/Blink/2x.png
   uploadId: 484258
 TextureImporter:
   internalIDToNameTable: []
@@ -105,265 +105,243 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2x_0
+      name: Blink_2x_0
       rect:
         serializedVersion: 2
-        x: 58
+        x: 88
         y: 53
         width: 144
-        height: 146
+        height: 147
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09cc03891ce651249a14d3920fe3b42c
-      internalID: 120249620
+      spriteID: b7457edadaf29e042859cdfe562a8052
+      internalID: -895255507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_1
+      name: Blink_2x_1
       rect:
         serializedVersion: 2
-        x: 220
-        y: 52
+        x: 261
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b3aab171a1284fb233d1a93eca957
+      internalID: -1525834452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blink_2x_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 53
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc6a401f9ccfcc49a11d2fce525ad53
+      internalID: -1865452544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blink_2x_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 53
         width: 143
-        height: 148
+        height: 147
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 321744d441be0b749933f526418498b3
-      internalID: -1642848702
+      spriteID: f38c6379d8550904985f210b2e267621
+      internalID: 538760833
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_2
+      name: Blink_2x_4
       rect:
         serializedVersion: 2
-        x: 382
-        y: 52
+        x: 779
+        y: 53
         width: 144
-        height: 148
+        height: 147
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef998bea025618441ae8ebddfe21d079
-      internalID: 1413683596
+      spriteID: 9ae9e5b0b37516e4dbb32426988f75c0
+      internalID: -1299030554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_3
+      name: Blink_2x_5
       rect:
         serializedVersion: 2
-        x: 545
-        y: 52
+        x: 952
+        y: 53
         width: 144
-        height: 150
+        height: 147
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5186268c518d8fd4d8a57e098c1a32cf
-      internalID: 24881069
+      spriteID: 874582105a97953478aa66970fb67f43
+      internalID: -711820042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_4
+      name: Blink_2x_6
       rect:
         serializedVersion: 2
-        x: 708
-        y: 52
+        x: 1125
+        y: 53
         width: 144
-        height: 150
+        height: 147
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1ad0e6d4d406c84d9a7f01ec808d47a
-      internalID: -2102468158
+      spriteID: d76519b92c06bbb4b9250b442f7ef4e4
+      internalID: 686667910
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_5
+      name: Blink_2x_7
       rect:
         serializedVersion: 2
-        x: 871
-        y: 52
+        x: 1298
+        y: 53
         width: 143
-        height: 152
+        height: 147
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c357be6a7bedf1f4891b693e22793de4
-      internalID: 1825196185
+      spriteID: 1e9db0a083d8f114b8fdbf30f7165100
+      internalID: 639465069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_6
+      name: Blink_2x_8
       rect:
         serializedVersion: 2
-        x: 1033
-        y: 52
+        x: 1470
+        y: 53
         width: 144
-        height: 152
+        height: 147
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3d71f7d26a043646b0a62777c3f7c3d
-      internalID: -567593148
+      spriteID: a6665ed57792a474fa6f3dea4f452d0a
+      internalID: -1439358510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_7
+      name: Blink_2x_9
       rect:
         serializedVersion: 2
-        x: 1196
-        y: 52
+        x: 1643
+        y: 53
         width: 144
-        height: 150
+        height: 147
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45391a299ee4fa3438f121af05679f0a
-      internalID: 2030016274
+      spriteID: 1bfb696598a08c244bb67ded46b05693
+      internalID: -925111308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_8
+      name: Blink_2x_10
       rect:
         serializedVersion: 2
-        x: 1359
-        y: 52
+        x: 1816
+        y: 53
         width: 144
-        height: 150
+        height: 147
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d338286292ddb94c944db3ce6b558ca
-      internalID: -1653355730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2x_9
-      rect:
-        serializedVersion: 2
-        x: 1522
-        y: 52
-        width: 144
-        height: 148
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1485ce45b5b7f534eacdd8e14c62d92b
-      internalID: 1054464948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2x_10
-      rect:
-        serializedVersion: 2
-        x: 1685
-        y: 52
-        width: 143
-        height: 148
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2410bcf62c635b4e91ae7b2307bd334
-      internalID: -1942502817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 2x_11
-      rect:
-        serializedVersion: 2
-        x: 1847
-        y: 52
-        width: 144
-        height: 146
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23f52749b9c9b4747a8b35f130fefae6
-      internalID: 2068932273
+      spriteID: db5c2f1528a6f314694295d90c289eab
+      internalID: -2003632779
       vertices: []
       indices: 
       edges: []
@@ -372,7 +350,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 4e5239fa3afb1df4ea14e26fd508a715
+    spriteID: 1c9c81807d16de54da1268ea0a9468f3
     internalID: 0
     vertices: []
     indices: 
@@ -384,18 +362,17 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      2x_0: 120249620
-      2x_1: -1642848702
-      2x_10: -1942502817
-      2x_11: 2068932273
-      2x_2: 1413683596
-      2x_3: 24881069
-      2x_4: -2102468158
-      2x_5: 1825196185
-      2x_6: -567593148
-      2x_7: 2030016274
-      2x_8: -1653355730
-      2x_9: 1054464948
+      Blink_2x_0: -895255507
+      Blink_2x_1: -1525834452
+      Blink_2x_10: -2003632779
+      Blink_2x_2: -1865452544
+      Blink_2x_3: 538760833
+      Blink_2x_4: -1299030554
+      Blink_2x_5: -711820042
+      Blink_2x_6: 686667910
+      Blink_2x_7: 639465069
+      Blink_2x_8: -1439358510
+      Blink_2x_9: -925111308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
